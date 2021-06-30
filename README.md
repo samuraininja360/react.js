@@ -1,4 +1,4 @@
-### The Shroud Ninja's React Template
+# The Shroud Ninja's React Template
 
 Welcome to a basic React App template for Material UI and other npm packages! The App auto-updates content and adds more potential to your website.
 
