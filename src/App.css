@@ -1,0 +1,55 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-size: 1vw;
+  font-family: 'Leon'
+}
+@font-face {
+  font-family: 'Leon';
+  src: url("LeonSans-Medium.otf");
+}
+:root {
+  --blue: #0064ff;
+}
+nav {
+  font-size: 1.5vw;
+  margin: 1vw 12.5% 1vw 12.5%;
+  width: 75%;
+}
+section {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 12.5% 0 12.5%;
+}
+h1 {
+  font-size: 2vw;
+}
+h2 {
+  font-size: 1.5vw;
+}
+p {
+  font-size: 1vw;
+}
+.content {
+  width: 31.25vw;
+}
+.image {
+  width: 31.25vw;
+}
+.img {
+  width: 100%;
+}
+button {
+  min-width: 4vw !important;
+  font-size: 1.25vw !important;
+}
+.MuiButton-containedPrimary {
+  text-transform: none !important;
+  background: var(--blue) !important;
+  font-family: 'Leon' !important;
+}
+.MuiButton-text {
+  text-transform: none !important;
+  font-family: 'Leon' !important;
+}
